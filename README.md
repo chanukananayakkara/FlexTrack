@@ -1,0 +1,1 @@
+A modern web application built with the MERN stack to help gym members and trainers efficiently manage workout schedules, monitor training sessions, and stay on top of their fitness goals.
