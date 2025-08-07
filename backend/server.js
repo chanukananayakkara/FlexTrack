@@ -15,9 +15,7 @@ app.use((req,res,next) => {
 
 
 //routes
-app.get('/', (req,res) => {
-    res.json({mssg: 'welcome to the app'})
-})
+app.use(workoutRoutes)
 
 //listen for requests
 app.listen(process.env.PORT, () => {
